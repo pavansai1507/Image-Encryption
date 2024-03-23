@@ -1,0 +1,1 @@
+The script will create an "encrypted_image.png" when encrypting and a "decrypted_image.png" when decrypting. These files will appear in the same directory as the script.
